@@ -49,3 +49,45 @@ Responsável por projetar como as pessoas usuárias interagirão com os produtos
 ### Pesquisa com pessoas usuárias
 
 Responsável por utilizar processos para trazer dados que ajudam a atender melhor que é o publico-alvo e como entregar a experiência mais agradável possível.
+
+<h1 align="center"> Especialidades dentro da UX </h1>
+
+### UX Researcher
+
+UX Researcher, ou pesquisadora da experiência da pessoa usuária, responsável por realizar testes, pesquisas com usuários e análises de dados importantes para dentro do processo de desenvolvimento de produtos. Com isso, temos produtos muito mais humanizados, assertivos e acessíveis!
+
+### UX Writer
+
+UX Writer, ou redatora de UX. Ela é focada em oferecer as melhores orientações textuais e experiências com as palavras para as pessoas usuárias, por meio da escrita estratégica e assertiva. Ou seja, ela é responsável por escrever textos que se comuniquem precisamente com as pessoas usuárias e as guiem durante a navegação de forma leve, oferecendo uma experiência de fluída.
+
+### UX Designer
+
+Essa pessoa é responsável por estabelecer um processo de desenvolvimento de produtos que inclua as necessidades e dores da pessoa usuária. Isso torna o produto muito mais assertivo e eficiente, nos ajudando, inclusive, a economizar tempo ao focar naquilo que é realmente necessário produzir.
+
+A pessoa UX Designer entrega validação de hipóteses em relação ao nosso produto e a um determinado problema que queremos resolver, a partir dos dados que a pessoa UX Researcher traz acerca das demandas das pessoas usuárias.
+
+### Arquiteto(a) da Informação
+
+A pessoa arquiteta da informação trará estrutura para os produtos, ou seja, uma ordem bem feita dos conteúdos presentes no site ou aplicativo. Isso serve para que a pessoa usuária não se perca e para que o fluxo de navegação seja mais simples e rápido, além de garantir a acessibilidade desse conteúdo.
+
+Um exemplo de entregável dessa especialidade é o ``sitemap``, ou "mapa do site", um esqueleto que indica a ordem das páginas do site ou aplicativo, posição e funcionalidades dos menus, etc.
+
+Outro exemplo são os ``fluxos da pessoa usuária``, muito importante para nós! Nele, definimos o caminho que a pessoa usuária deverá seguir para completar uma ação. Por exemplo: clicando no botão "x", ela será encaminhada para tal página; nessa página, ela descerá até ponto "y" para clicar no botão para efetuar uma compra; e assim por diante.
+
+### UX Strategist
+
+A pessoa estrategista em UX é a responsável por transformar as metas e necessidades em estratégias. Esses especialistas que trarão uma visão tática para o processo de criação e pensarão como o produto pode se encaixar na vida das pessoas usuárias, solucionando suas dores.
+
+Em outras palavras, usando as demandas da pessoa usuária como base, a pessoa estrategista procurará meios para alcançar os objetivos da empresa. Ou seja, essa pessoa transforma um problema em oportunidade!
+
+### Product Designer
+
+O trabalho do designer de produtos tem um direcionamento forte tanto para os negócios quanto para a pessoa usuária, trazendo ambas as visões para o processo de desenvolvimento de produtos.
+
+Então, alguns dos entregáveis dessa pessoa são: acompanhamento de métricas, entendendo se o produto está realmente resolvendo as dores da empresa e da pessoa usuária ou se precisa ser repensado; processo de Discovery, montando os objetivos do projeto, entendendo o mercado e como aquele produto se encaixa no contexto da empresa, da pessoa usuária e da equipe de desenvolvimento.
+
+### Estrategista de Conteúdo
+
+Um conteúdo que aparece no momento correto e outro que aparece no momento incorreto é a diferença entre uma boa e uma má experiência, pois podemos ganhar ou perder a pessoa usuária.
+
+Sendo assim, as pessoas estrategistas de conteúdo possuem conhecimentos que ajudam a determinar melhores caminhos e estratégias para os conteúdos. Por exemplo, ela vai analisar o produto para entender o momento de inserir um vídeo, ou uma imagem que ajuda a pessoa usuária a se guiar pelo fluxo do aplicativo ou site, ou um texto mais elaborado para ajudar na compreensão, etc.
