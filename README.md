@@ -91,3 +91,49 @@ Então, alguns dos entregáveis dessa pessoa são: acompanhamento de métricas, 
 Um conteúdo que aparece no momento correto e outro que aparece no momento incorreto é a diferença entre uma boa e uma má experiência, pois podemos ganhar ou perder a pessoa usuária.
 
 Sendo assim, as pessoas estrategistas de conteúdo possuem conhecimentos que ajudam a determinar melhores caminhos e estratégias para os conteúdos. Por exemplo, ela vai analisar o produto para entender o momento de inserir um vídeo, ou uma imagem que ajuda a pessoa usuária a se guiar pelo fluxo do aplicativo ou site, ou um texto mais elaborado para ajudar na compreensão, etc.
+
+
+<h1 align="center">Design centrado no usuário</h1>
+
+DCU se trata de uma linha de pensaamento que coloca as dores e necessidades das pessoas usuárias no cenro do processo de desenvolvimento ed produtos.
+
+Na DCU, existem alguns princípios básicos que os negócios podem seguir para iniciarem e aplicarem de fato essa linha de pensamento:
+
+### Princípio 01: Foco nas pessoas
+
+O primeiro princípio do Design Centrado no(a) Usuário(a) é o foco em todas as pessoas que estão ligadas ao produto ou serviço de alguma forma, podendo ser quem desenvolve, serve ou utiliza. Essa é a ideia de que é preciso pensar em todas as pessoas envolvidas e refletir como tornar o processo simples e agradável para todo mundo.
+
+### Princípio 02: Identifique o que é o problema e o que é o sintoma
+
+Nem tudo que dói é o real problema. As pessoas expressam suas dores, mas muitas vezes elas são apenas sintomas que apontam em direção ao real problema. Então é preciso desenvolver análises mais profundas para separar o que é sintoma e qual é a real necessidade.
+
+Por exemplo: uma pessoa pode reclamar de dor nas costas, mas será que esse é de fato o problema? Ao analisar as causas, é possível descobrir ao final que o real problema que desencadeia essa dor é uma cadeira mal ajustada, ou a posição incorreta na hora de dormir.
+
+### Princípio 03: Pense em tudo como um sistema
+
+Tudo está ligado de alguma forma, desde a pessoa que idealiza o produto até quem o consome de fato ao final. Por isso, sempre pense visualizando o processo como um todo. Faça questionamentos do tipo: “como minha ação nesse ponto impactará lá na frente?”, “Qual experiência queremos entregar à pessoa usuária com o produto?”.
+
+<h1 align="center">
+    Design thinking
+</h1>
+
+Design Thinking significa "pensar no processo", e se trata de uma metodologia baseada em refletir sobre o processo de desenvolvimento de produtos.
+
+#### 1. Empatia
+Também chamada de "Imersão", essa é a etapa em que realizamos pesquisas para compreender melhor a pessoa usuária e as suas dores. No exemplo que usamos anteriormente, a empresa em questão foi até as pessoas que queria ajudar para investigar suas vidas e entender as causas daquelas dores nas costas.
+
+#### 2. Definição
+Essa etapa também pode ser chamada de Análise e Síntese, e é o momento de analisar os problemas investigados e defini-los melhor, a partir dos dados coletados na etapa anterior. No exemplo, identificamos que o real problema não era a dor nas costas em si, mas a postura no home office.
+
+#### 3. Idealização ou Ideação
+Momento de começar a redefinir o problema e pensar em suas possíveis causas e soluções. Ou seja, nós sabemos o problema a atacar, e agora vamos pensar no que fazer para solucioná-lo. Esse é foi o momento em que a empresa pensou em diversas possibilidades e chegou à conclusão de que desenvolveriam o aplicativo, considerando o que era ou não viável tanto para eles quanto para a pessoa usuária.
+
+#### 4. Prototipagem ou Prototipação
+Essa é a etapa em que estruturamos as possíveis soluções e as desenvolvemos, tendo como base as ideias levantadas na etapa anterior. Esse foi o momento em que a nossa empresa fictícia criou o aplicativo.
+
+#### 5. Testagem ou Teste
+Após a solução ser desenvolvida, é preciso testá-la para verificar se ela foi bem sucedida em aliviar ou solucionar o problema apresentado no início do processo. Para isso, colocamos nosso produto a campo e analisamos seu desempenho, assim como identificamos possíveis melhorias a fazer.
+
+Nem sempre o produto que idealizamos e criamos ao longo do processo é o produto que será eficiente para a pessoa usuária, e isso é perfeitamente normal. Por isso, essa é a hora de ter a mente aberta e aceitar que nossa solução pode tanto dar certo quanto dar errado.
+
+<h1 align="center">UX Design generalista</h1>
