@@ -136,4 +136,36 @@ Após a solução ser desenvolvida, é preciso testá-la para verificar se ela f
 
 Nem sempre o produto que idealizamos e criamos ao longo do processo é o produto que será eficiente para a pessoa usuária, e isso é perfeitamente normal. Por isso, essa é a hora de ter a mente aberta e aceitar que nossa solução pode tanto dar certo quanto dar errado.
 
-<h1 align="center">UX Design generalista</h1>
+<h1 align="center">Pessoa UX Design generalista</h1>
+
+Uma pessoa UX Designer generalista acompanha e participa ativamente do desenvolvimento de produtos de ponta a ponta. Ou seja, desde a pesquisa até a prototipação e testagem.
+
+Esse profissional possui um pouco de conhecimento sobre cada divisão da UX, podendo realizar atividades correspondentes a diferentes especialidades. Por isso, suas tarefas podem envolver pesquisa, ideação, estratégia e até montagem de telas e prototipação.
+
+Alguns exemplos de atividades da pessoa UX Designer generalista são:
+
+Planejar e aplicar pesquisas e testes;
+Planejar os processos de desenvolvimento de produtos;
+Realizar e/ou coordenar processos de ideação de soluções;
+Mediar dinâmicas em equipes;
+Projetar estratégias para criação de produtos e serviços;
+Montar protótipos;
+Participar de reuniões de alinhamento com stakeholders, que geralmente financiam os projetos e pedem atualizações constantes do andamento deles;
+Realizar documentação de descobertas, para passar as informações adiante ou, ainda, para outras equipes relacionadas.
+Esses são apenas alguns exemplos, e você pode encontrar algumas outras atribuições em descrições de vagas, ou mesmo dentro da sua própria atuação. O escopo de atividades da pessoa UX Designer generalista pode mudar de empresa para empresa.
+
+### Importantica de UX Design generalista
+
+1. Visão ampla sobre o processo, o produto e as pessoas
+A pessoa UX Designer generalista possui um olhar treinado para elaborar produtos que vão ao encontro das necessidades das pessoas usuárias.
+Ela pode trazer questionamentos pontuais que ajudam no melhor desenvolvimento do produto e sugestões válidas de melhorias para produtos que já existem. Além disso, ela também pode prever alguns obstáculos ao longo do caminho antes mesmo de eles surgirem, o que ajuda a economizar o tempo e a energia da equipe.
+
+3. Soluções mais assertivas, produtos mais assertivos
+A pessoa UX Designer generalista possui a visão necessária para trazer as reais dores e demandas da pessoa usuária para dentro do processo. Com isso, essa pessoa consegue elaborar soluções muito mais assertivas, que aliviam ou resolvem, de fato, o problema enfrentado pela pessoa usuária. Dessa forma, o produto também é assertivo.
+
+4. Soluções baseadas em dados reais
+Pessoas UX Designers generalistas não trabalham com achismos. Se os dados sobre as pessoas usuárias ainda não existem na empresa, esses profissionais realizam pesquisas, testes e análises para coletá-los. Assim, sabemos exatamente o que as pessoas usuárias esperam do nosso produto, podendo validar nossas hipóteses e sugestões de solução.
+
+5. Sabedoria para identificar os reais problemas
+Muitas vezes, o que dói não é o real problema das pessoas usuárias. Um exemplo disso é a dor nas costas sobre a qual tratamos anteriormente, cujo problema real era a cadeira mal ajustada e a postura da pessoa usuária.
+A pessoa UX Designer trata dessas raízes dos problemas, das causas reais deles. Para identificá-los, é necessária uma visão bastante precisa para questionar as dores e compreendê-las melhor. Só assim podemos criar produtos assertivos para solucionar as dores.
