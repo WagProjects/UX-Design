@@ -33,3 +33,19 @@ Responsável em tornar um produto ou serviço mais acessível para todas as pess
   <li>Utilização mais simples</li>
   <li>Acessível à todas as pessoas</li>
 </ul>
+
+### Design Visual
+
+Responsável pela aplicação dos conceitos visuais (tipografias, cores, formas e etc.) para criar experiências acessíveis, agradáveis e confiáveis para a pessoa usuária.
+
+### Análise de dados
+
+Responsável por interpretar dados e informações para transformá-los em insights e soluções tangíveis.
+
+### Design de Interação
+
+Responsável por projetar como as pessoas usuárias interagirão com os produtos ou serviços, seja interação por toque, voz ou texto.
+
+### Pesquisa com pessoas usuárias
+
+Responsável por utilizar processos para trazer dados que ajudam a atender melhor que é o publico-alvo e como entregar a experiência mais agradável possível.
