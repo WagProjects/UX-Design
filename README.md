@@ -8,3 +8,6 @@ A experiência é a forma como conseguimos 'experimentar' o mundo ao nosso redor
 
 ## User experience 👤
 É a area que envolve todos os aspectos da interação da pessoa usuária final com a empresa, seus serviços e seus produtos. A responsabilidade da UX é estudar todos os aspectos sensoriais, psíquicos e emocionais que um produto ou serviço pde gerar.
+
+<h1 align="center">Guarda-chuva da UX</h1> 
+[Guarda-chuva da ux](https://www.alura.com.br/artigos/assets/ux-design-medos-e-insegurancas/img-02.jpg)
