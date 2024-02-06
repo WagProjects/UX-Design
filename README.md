@@ -15,3 +15,21 @@ A experiência é a forma como conseguimos 'experimentar' o mundo ao nosso redor
   <h1>Guarda-chuva da UX</h1> 
   <img alt"guarda-chuva da ux" src="https://www.alura.com.br/artigos/assets/ux-design-medos-e-insegurancas/img-02.jpg"/>
 </div>
+
+### Arquitetura da informação
+
+Responsável pela organização e otimização dos conteúdos em um produto ou serviço.
+<ul>
+  <li>Organização do fluxo de site</li>
+  <li>Organização das páginas</li>
+  <li>Organização dos produtos</li>
+</ul>
+
+### Usabilidade
+
+Responsável em tornar um produto ou serviço mais acessível para todas as pessoas usuárias.
+
+<ul>
+  <li>Utilização mais simples</li>
+  <li>Acessível à todas as pessoas</li>
+</ul>
