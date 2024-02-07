@@ -17,3 +17,15 @@ Em dinâmicas como as de montagem de proto-personas, é normal a utilização de
 4. Evitar colocar nomes de pessoas conhecidas e/ou famosas
 
 Na dinâmica de montagem de proto-personas, estamos criando a personalidade de uma pessoa fictícia para representar o grupo de pessoas que desejamos atender. Quando atribuímos um nome de alguém que conhecemos, começamos a associar a proto-persona a essa pessoa específica deixando as informações enviesadas, mesmo inconscientemente, e colocando no quadro características que representam essa pessoa e não exatamente quem desejamos atender.
+
+## Proto-personinha
+
+Proto-personas são muitas vezes feitas ao longo de reuniões ou dinâmicas em equipes, porém nem sempre há tanto tempo disponível para montar o artefato inteiro. Para facilitar o processo, existe uma ferramenta chamada Proto-Personinha: uma forma reduzida de descrever um personagem que representa o grupo de pessoas que desejamos atender.
+
+Com a proto-personinha, mantemos em vista o objetivo principal da proto-persona, que é descrever o perfil de pessoa que temos em mente, porém realizamos isso em uma única frase:
+
+“ (Nome da proto-persona) é um(a) (profissão da proto-persona) que precisa de (necessidade ou dor principal) e quer que a experiência seja (como a experiência deve ser) porque ele(a) valoriza (o que a pessoa valoriza).”
+
+Ao final, você terá algo mais ou menos assim, por exemplo: “Marcela é uma contadora que precisa de trabalhos freelancers e quer que a experiência seja descomplicada porque ela valoriza a agilidade de tempo.”
+
+A proto-personinha não substitui a proto-persona, porém facilita a dinâmica caso haja pouco tempo para montagem do artefato em reuniões ou encontros de equipe.
